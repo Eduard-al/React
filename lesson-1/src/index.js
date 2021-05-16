@@ -31,8 +31,6 @@ const MessageField = ({ messages }) => {
     )
 }
 
-
-
 const render = () => {
     ReactDOM.render(
         <MessageField messages={messages} />,
