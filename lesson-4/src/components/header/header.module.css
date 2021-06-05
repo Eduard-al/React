@@ -1,0 +1,17 @@
+.header {
+  height: 50px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+a {
+
+  text-decoration: none;
+}
+
+p {
+  margin-top: 10px;
+  color: rgb(50, 45, 63);
+  font-weight: 400;
+  font-size: 90%;
+}
