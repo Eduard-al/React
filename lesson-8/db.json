@@ -1,0 +1,157 @@
+{
+  "chats": [
+    {
+      "id": "0",
+      "fire": false,
+      "title": "Тестовый чат"
+    },
+    {
+      "id": "1",
+      "fire": false,
+      "title": "Рабочий чат"
+    },
+    {
+      "id": "2",
+      "fire": false,
+      "title": "Друзья"
+    }
+  ],
+  "messages": [
+    {
+      "id": "0",
+      "author": "WebDev",
+      "text": "React.js!",
+      "chatId": "0"
+    },
+    {
+      "id": "1",
+      "author": "WebDev",
+      "text": "Hi!",
+      "chatId": "0"
+    },
+    {
+      "id": "2",
+      "author": "WebDev",
+      "text": "React.js!",
+      "chatId": "1"
+    },
+    {
+      "id": "3",
+      "author": "WebDev",
+      "text": "Привет!",
+      "chatId": "1"
+    },
+    {
+      "id": "4",
+      "author": "WebDev",
+      "text": "Что нового?",
+      "chatId": "2"
+    },
+    {
+      "id": "5",
+      "author": "WebDev",
+      "text": "Hi!",
+      "chatId": "2"
+    },
+    {
+      "id": "6",
+      "author": "WebDev",
+      "text": "Hi!",
+      "chatId": "0"
+    },
+    {
+      "text": "jkln",
+      "author": "gghj",
+      "id": "YVbX0Yh8kVd5SQ5zR0bbo",
+      "chatId": "1"
+    },
+    {
+      "text": "likj",
+      "author": "gghj",
+      "id": "Xshqw2UDB0mig07tpX3_u",
+      "chatId": "3"
+    },
+    {
+      "text": "uhui",
+      "author": "",
+      "id": "KjEa_XNFrttQSWCHhN1Aj",
+      "chatId": "3"
+    },
+    {
+      "text": "oiuio90",
+      "author": "",
+      "id": "xF_7Fu0dwGLCNtWVryeCw",
+      "chatId": "2"
+    },
+    {
+      "text": "hb",
+      "author": "",
+      "id": "P5hgyuqkiqOzZ2Xyh65S5",
+      "chatId": "0"
+    },
+    {
+      "text": "jk",
+      "author": "",
+      "id": "pkASL2OF8RC8VuzvLG7Zv",
+      "chatId": "0"
+    },
+    {
+      "text": "hyjh",
+      "author": "",
+      "id": "iJXjVtqwrM_wS21Fbd9hU",
+      "chatId": "1"
+    },
+    {
+      "text": "uhio",
+      "author": "",
+      "id": "Xuup3vlN80ROB7p37GpcG",
+      "chatId": "1"
+    },
+    {
+      "text": "hbh\n",
+      "author": "",
+      "id": "kanHLPoOCDwfNH_yp7oZe",
+      "chatId": "1"
+    },
+    {
+      "text": "hhjk",
+      "author": "",
+      "id": "Pc3hoMlegLccn-wd3ncf5",
+      "chatId": "1"
+    },
+    {
+      "text": "hjkukj",
+      "author": "rgdgd",
+      "id": "06EqFkL0vInqH7tIUTgL4",
+      "chatId": "1"
+    },
+    {
+      "text": "78689",
+      "author": "rgdgd",
+      "id": "bEh1dhkaH0i7DLcrjBrkB",
+      "chatId": "2"
+    },
+    {
+      "text": "uykyuk",
+      "author": "",
+      "id": "SBEfw8t6-WQOeHU2FwE8g",
+      "chatId": "0"
+    },
+    {
+      "text": "gyjg",
+      "author": "",
+      "id": "vr0gmdX2FvnWMX-MxxS6K",
+      "chatId": "0"
+    },
+    {
+      "text": "yjg",
+      "author": "yjg",
+      "id": "rcfplKf9QuYz-T-4Y_iD9",
+      "chatId": "0"
+    }
+  ],
+  "profile": {
+    "id": 0,
+    "name": "Makc"
+  }
+}
